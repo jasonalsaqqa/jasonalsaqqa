@@ -10,7 +10,7 @@ Currently working on **[Hackmap](https://hackmap.no)** — a hackathon and CTF a
 ### Stack
 React · Node.js · Python · Vite · Electron · scikit-learn · pandas · NumPy
 
-**AI tooling** — Cursor · Claude Code · agentic workflows
+**AI tooling** — Cursor · Claude Code · Codex · agentic workflows
 
 If there's a tool, agent framework, or model worth knowing, I've probably used it.
 
