@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Jason Al-saqqa
 
 I'm Jason, an AI & Machine Learning student at UiO. I run **Jason KI** — my own business doing AI lectures and workshops at high schools across Norway. I know the full modern AI stack, and I build things that actually ship.
 
@@ -11,7 +10,6 @@ Currently working on **[Hackmap](https://hackmap.no)** — a hackathon and CTF a
 React · Node.js · Python · Vite · Electron · scikit-learn · pandas · NumPy
 
 **AI tooling** — Cursor · Claude Code · Codex · agentic workflows
-
 If there's a tool, agent framework, or model worth knowing, I've probably used it.
 
 ---
@@ -24,28 +22,7 @@ If there's a tool, agent framework, or model worth knowing, I've probably used i
 
 ### Find me
 [LinkedIn](https://www.linkedin.com/in/jason-al-saqqa/)
+
 ---
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=DITT_GITHUB_BRUKERNAVN&show_icons=true&hide_border=true&theme=default)
-
-
-
-
-
-
-
-
-<!--
-**jasonalsaqqa/jasonalsaqqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonalsaqqa&show_icons=true&hide_border=true&theme=default)
