@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-# Jason Al-saqqa
 
-AI & Machine Learning student at UiO. I run **Jason KI** — my own business doing AI lectures and workshops at high schools across Norway. I know the full modern AI stack, and I build things that actually ship.
+I'm Jason, an AI & Machine Learning student at UiO. I run **Jason KI** — my own business doing AI lectures and workshops at high schools across Norway. I know the full modern AI stack, and I build things that actually ship.
 
 Currently working on **[Hackmap](https://hackmap.no)** — a hackathon and CTF aggregator for Norway. It didn't exist, so I made it.
 
