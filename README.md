@@ -16,7 +16,7 @@ If there's a tool, agent framework, or model worth knowing, I've probably used i
 
 ### Projects
 - **[Hackmap](https://hackmap.no)** — Find every hackathon and CTF in Norway in one place.
-- **Art Idea Regenerator** — Desktop app generating random design prompts as creative constraints. Built in Electron, runs on Mac and Windows.
+- **[Art Idea Regenerator](https://github.com/jasonalsaqqa/art-idea-generator)** — Desktop app generating random design prompts as creative constraints. Built in Electron, runs on Mac and Windows.
 
 ---
 
