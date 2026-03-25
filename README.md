@@ -7,7 +7,7 @@ I'm Jason, an AI & Machine Learning student at UiO. I run **Jason KI** my own bu
 ### Stack
 React · Node.js · Python · Vite · Electron · scikit-learn · pandas · NumPy
 
-**AI tooling** — Cursor · Claude Code · Codex · agentic workflows
+**AI tooling** Cursor · Claude Code · Codex · agentic workflows
 If there's a tool, agent framework, or model worth knowing, I've probably used it.
 
 ---
