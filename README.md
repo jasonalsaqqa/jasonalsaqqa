@@ -1,8 +1,6 @@
 # Jason Al-saqqa
 
-I'm Jason, an AI & Machine Learning student at UiO. I run **Jason KI** — my own business doing AI lectures and workshops at high schools across Norway. I know the full modern AI stack, and I build things that actually ship.
-
-Currently working on **[Hackmap](https://hackmap.no)** — a hackathon and CTF aggregator for Norway. It didn't exist, so I made it.
+I'm Jason, an AI & Machine Learning student at UiO. I run **Jason KI** my own business doing AI lectures and workshops at high schools across Norway. I know the full AI stack, and I build things that actually ship.
 
 ---
 
@@ -15,7 +13,6 @@ If there's a tool, agent framework, or model worth knowing, I've probably used i
 ---
 
 ### Projects
-- **[Hackmap](https://hackmap.no)** — Find every hackathon and CTF in Norway in one place.
 - **[Art Idea Regenerator](https://github.com/jasonalsaqqa/art-idea-generator)** — Desktop app generating random design prompts as creative constraints. Built in Electron, runs on Mac and Windows.
 
 ---
